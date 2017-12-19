@@ -5,7 +5,7 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 
-import com.taotao.common.pojo.EUDataGridResult;
+import com.taotao.result.EUDataGridResult;
 
 /**
  * 页面跳转controller
